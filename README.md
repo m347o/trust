@@ -46,7 +46,9 @@
 [Polish](https://sin.github.io/trust/),
 [Vietnamese](https://nghiatt90.github.io/trust-vn/),
 [Greek](https://lightspot21.github.io/trust/),
-[Persian/Farsi](https://hamed.github.io/trust/)
+[Persian/Farsi](https://hamed.github.io/trust/),
+[Hungarian](http://ncase.me/trust-hu/),
+[Catalan](https://fbricart.github.io/trust/)
 
 # "LICENSE"
 
