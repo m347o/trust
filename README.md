@@ -48,7 +48,11 @@
 [Greek](https://lightspot21.github.io/trust/),
 [Persian/Farsi](https://hamed.github.io/trust/),
 [Hungarian](http://ncase.me/trust-hu/),
-[Catalan](https://fbricart.github.io/trust/)
+[Catalan](https://fbricart.github.io/trust/),
+[Arabic](https://mudaraljundi.github.io/trust/),
+[Bulgarian](http://ncase.me/trust-bg/),
+[Korean](https://osori.github.io/trust-ko/),
+[Romanian](https://github.com/enFactorial/trust)
 
 # "LICENSE"
 
