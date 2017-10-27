@@ -34,11 +34,13 @@
 
 # Другие локализации
 
+[Japanese](https://htlife.github.io/trust_jp/),
 [Chinese (Simplified)](https://sekai.co/trust/),
 [Chinese (Taiwan)](https://audreyt.github.io/trust-zh-TW/),
 [Brazilian Portuguese](https://brunolemos.github.io/trust/),
 [French](https://ayowel.github.io/trust/),
 [Spain Spanish](https://ccamara.github.io/trust/),
+[Latin American Spanish](https://maeriens.github.io/trust/),
 [Russian](https://notdotteam.github.io/trust/),
 [German](https://jkoelling.github.io/trust/),
 [Italian](https://lvdt.github.io/trust/),
@@ -52,7 +54,9 @@
 [Arabic](https://mudaraljundi.github.io/trust/),
 [Bulgarian](http://ncase.me/trust-bg/),
 [Korean](https://osori.github.io/trust-ko/),
-[Romanian](https://github.com/enFactorial/trust)
+[Romanian](https://enfactorial.github.io/trust/),
+[Ukrainian](https://yaroslav-f.github.io/trust/),
+[Croatian](http://www.varljiv.org/evolucija-povjerenja/index.html)
 
 # "LICENSE"
 
