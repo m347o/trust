@@ -56,7 +56,8 @@
 [Korean](https://osori.github.io/trust-ko/),
 [Romanian](https://enfactorial.github.io/trust/),
 [Ukrainian](https://yaroslav-f.github.io/trust/),
-[Croatian](http://www.varljiv.org/evolucija-povjerenja/index.html)
+[Croatian](http://www.varljiv.org/evolucija-povjerenja/index.html),
+[Swedish](http://trust.alicedarner.se/)
 
 # "LICENSE"
 
